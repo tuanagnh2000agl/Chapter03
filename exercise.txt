@@ -1,0 +1,13 @@
+# Chapter 03
+1. Tự đánh giá về source code của bản thân trong chapter 02 rồi báo cáo với manager về các điểm cần cải thiện.
+   - Các tên class được đặt tên chưa phù hợp với ý nghĩ của nó.
+   - Sủ dụng các kích thước chưa phù hợp khi sử dụng responsive.
+   - sử dụng flocss và Bem chưa tốt.
+   - Khi 1 page có nhiều text thì chưa biết đặc tên như nào hợp lý như trong link 2 của task 01.
+   - Sủ dụng perfect pixel chưa hoàn thiện vẫn còn 1 số chỗ chưa giống với design.
+2. Tham khảo tài liệu kiểm tả xem bản thân có dùng sai HTM tag/CSS properies và parameter hay không.
+Sau khi xem và kiểm tra HTML / CSS nhận thấy sai vẫn còn nhiều khi sử dụng HTML tag/ CSS properties và parameter .
+3. Học về các yếu tố không được khuyến khích sử dụng, các yếu tố đã ngưng hỗ trợ, cũng như về các "tag", "attribute", "meta" thường được sử dụng.
+
+4. Học về "Content models" của yếu tố tag trong HTML và kiểm tra xem các tag nào có thể lồng được. tag nào không.
+5. Hiểu về cách chỉ định các parameter phức tạp trong CSS như liner-gradient, box-shadow, transform và học về cách tái hiện design.
