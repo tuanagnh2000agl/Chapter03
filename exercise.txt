@@ -8,6 +8,5 @@
 2. Tham khảo tài liệu kiểm tả xem bản thân có dùng sai HTM tag/CSS properies và parameter hay không.
 Sau khi xem và kiểm tra HTML / CSS nhận thấy sai vẫn còn nhiều khi sử dụng HTML tag/ CSS properties và parameter .
 3. Học về các yếu tố không được khuyến khích sử dụng, các yếu tố đã ngưng hỗ trợ, cũng như về các "tag", "attribute", "meta" thường được sử dụng.
-
 4. Học về "Content models" của yếu tố tag trong HTML và kiểm tra xem các tag nào có thể lồng được. tag nào không.
 5. Hiểu về cách chỉ định các parameter phức tạp trong CSS như liner-gradient, box-shadow, transform và học về cách tái hiện design.
